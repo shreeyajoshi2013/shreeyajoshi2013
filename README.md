@@ -7,9 +7,9 @@ Data Analyst | Aspiring Data Engineer
 Here are some ideas to get you started:
 -->
 
-- 🌱 I am currently upskilling myself in 
+- 🌱 I am currently upskilling myself in  <br>
         * Snowflake <br>
-        * PowerBI
+        * PowerBI       <br>
 
     
 <!--
