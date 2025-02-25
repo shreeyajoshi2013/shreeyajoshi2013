@@ -1,6 +1,6 @@
 ## 👋 Hi there! I am Shreeya.
 
-Data Analyst| Aspiring Data Engineer|
+Data Analyst | Aspiring Data Engineer 
 <!--
 **shreeyajoshi2013/shreeyajoshi2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I am currently upskilling myself in 
-        * Snowflake
+        * Snowflake <br>
         * PowerBI
 
     
