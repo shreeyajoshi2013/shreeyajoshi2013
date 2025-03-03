@@ -10,6 +10,10 @@ migrate data and data platforms, accurately and efficiently, following ETL proce
 - Snowflake <br>
 - PowerBI <br>
 
+### 📫 You can reach out to me via : <br>
+
+- [LinkedIn](https://www.linkedin.com/in/shreeyapravinjoshi/)
+
 ### 🌱 My certifications and courses 
 
 - [AWS Certified Cloud Practitioner Certification](https://cp.certmetrics.com/amazon/en/public/verify/credential/d907587eea8344c893032be9a0ce7473) 
