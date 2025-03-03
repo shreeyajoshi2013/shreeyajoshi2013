@@ -3,7 +3,7 @@
 Data Analyst | Aspiring Data Engineer 
 
 Data Analyst with an experience of about 4.5 years working in the IT industry, helping organizations </br>
-migrate data and data platforms, accurately and effeciently, following ETL processes.
+migrate data and data platforms, accurately and efficiently, following ETL processes.
 
 ### 🌱 I am currently upskilling myself in  <br>
 
