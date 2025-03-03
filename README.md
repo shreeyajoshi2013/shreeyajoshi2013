@@ -1,16 +1,19 @@
 ## 👋 Hi there! I am Shreeya.
 
 Data Analyst | Aspiring Data Engineer 
-<!--
-**shreeyajoshi2013/shreeyajoshi2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+Data Analyst with an experience of about 4.5 years working in the IT industry, helping organizations </br>
+efficiently and accurately migrate data, following ETL processes.
 
 🌱 I am currently upskilling myself in  <br>
-        -  Snowflake <br>
-        -  PowerBI       <br>
 
+- Snowflake <br>
+- PowerBI <br>
+
+🌱 My certifications and courses 
+
+- [AWS Certified Cloud Practitioner Certification](https://cp.certmetrics.com/amazon/en/public/verify/credential/d907587eea8344c893032be9a0ce7473) 
+- [Graphic Design Specialization - California Institute of the Arts - Coursera](https://coursera.org/share/0df0400bce7f52bddceace914944c243)
     
 <!--
 - 🔭 I’m currently working on ...
