@@ -19,17 +19,17 @@ migrate data and data platforms, accurately and efficiently, following ETL proce
  
 
 1	[Data_Pipeline_with_Snowflake_and_Apache_Nifi](https://github.com/shreeyajoshi2013/Data_Pipeline_with_Snowflake_and_Apache_Nifi)  (Data Engineering pipeline) <br>
-2	[AWS_Data_Engineering_Spotify_Data](https://github.com/shreeyajoshi2013/AWS_Data_Engineering_Spotify_Data) Data Engineering pipeline <br>
-3	[Data Engineering and Analysis with Youtube dataset](https://github.com/shreeyajoshi2013/AWS_Data_Engineering_YouTube_Data) Data Engineering pipeline <br>
-4	[College Selection Platform](https://github.com/shreeyajoshi2013/College-Selection-Platform) Database Design and implementation <br>
-5	[Python-practice-project](https://github.com/shreeyajoshi2013/Python-practice-projects) Practice - Data Anlaysis - Python <br>
-6	[Power-BI-practice-projects](https://github.com/shreeyajoshi2013/Power-BI-practice-projects) Practice - Visualization - PowerBI <br>
-7	[Data exploration with covid dataset](https://github.com/shreeyajoshi2013/SQL-Data-Exploration-with-Covid-Data) Data Analysis and Visualization <br>
-8	[Correlation between variables of movies data](https://github.com/shreeyajoshi2013/Python-Correlation-with-Movies-Data) Data Analysis - Statistical Analysis and Visualization <br>
-9	[SQL-Data-Cleaning-with-Housing-Data](https://github.com/shreeyajoshi2013/SQL-Data-Cleaning-with-Housing-Data) Data Cleaning and Pre-processing <br>
-10	[Data Preprocessing with Abalone Dataset](https://github.com/shreeyajoshi2013/Python-Data-Preprocessing-with-Abalone-Data) Data Cleaning and Pre-processing <br>
-11	[Prediction of Electricity consumption](https://github.com/shreeyajoshi2013/Prediction-of-Electricity-Consumption) Machine Learning - Regression <br>
-12	[KNN-CLassification-using-Abalone-Dataset](https://github.com/shreeyajoshi2013/KNN-CLassification-using-Abalone-Dataset) Machine Learning classification <br>
+2	[AWS_Data_Engineering_Spotify_Data](https://github.com/shreeyajoshi2013/AWS_Data_Engineering_Spotify_Data) (Data Engineering pipeline) <br>
+3	[Data Engineering and Analysis with Youtube dataset](https://github.com/shreeyajoshi2013/AWS_Data_Engineering_YouTube_Data) (Data Engineering pipeline) <br>
+4	[College Selection Platform](https://github.com/shreeyajoshi2013/College-Selection-Platform) (Database Design and implementation) <br>
+5	[Python-practice-project](https://github.com/shreeyajoshi2013/Python-practice-projects) (Practice - Data Anlaysis - Python) <br>
+6	[Power-BI-practice-projects](https://github.com/shreeyajoshi2013/Power-BI-practice-projects) (Practice - Visualization - PowerBI) <br>
+7	[Data exploration with covid dataset](https://github.com/shreeyajoshi2013/SQL-Data-Exploration-with-Covid-Data) (Data Analysis and Visualization) <br>
+8	[Correlation between variables of movies data](https://github.com/shreeyajoshi2013/Python-Correlation-with-Movies-Data) (Data Analysis - Statistical Analysis and Visualization) <br>
+9	[SQL-Data-Cleaning-with-Housing-Data](https://github.com/shreeyajoshi2013/SQL-Data-Cleaning-with-Housing-Data) (Data Cleaning and Pre-processing) <br>
+10	[Data Preprocessing with Abalone Dataset](https://github.com/shreeyajoshi2013/Python-Data-Preprocessing-with-Abalone-Data) (Data Cleaning and Pre-processing) <br>
+11	[Prediction of Electricity consumption](https://github.com/shreeyajoshi2013/Prediction-of-Electricity-Consumption) (Machine Learning - Regression) <br>
+12	[KNN-CLassification-using-Abalone-Dataset](https://github.com/shreeyajoshi2013/KNN-CLassification-using-Abalone-Dataset) (Machine Learning classification) <br>
 
  
 ### 🌱 My certifications and courses 
