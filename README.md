@@ -1,4 +1,4 @@
-## 👋 Hi there! I am Shreeya. [ Data Analyst | Aspiring Data Engineer ]
+## 👋 Hi there! I am Shreeya
 
 
 
