@@ -18,7 +18,7 @@ migrate data and data platforms, accurately and efficiently, following ETL proce
 ### 🌱 Here are some of my projects: <br>
  
 
-1	Data_Pipeline_with_Snowflake_and_Apache_Nifi $~~~~~~~~~~~~~$ | Data Engineering pipeline <br>
+1	Data_Pipeline_with_Snowflake_and_Apache_Nifi $~~~~~~~~~~~~~$     | Data Engineering pipeline <br>
 2	AWS_Data_Engineering_Spotify_Data $~~~~~~~~~~~~~~~~~~~~~~~~$ | Data Engineering pipeline <br>
 3	Data Engineering and Analysis with Youtube dataset $~~~~~~~$ | Data Engineering pipeline <br>
 4	College Selection Platform $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ | Database Design and implementation <br>
