@@ -31,7 +31,7 @@ migrate data and data platforms, accurately and efficiently, following ETL proce
 11	Prediction of Electricity consumption $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ | Machine Learning - Regression <br>
 12	KNN-CLassification-using-Abalone-Dataset $~~~~~~~~~~~~~~~~~~~~~~$ | Machine Learning classification <br>
 
-
+ 
 ### 🌱 My certifications and courses 
 
 - [AWS Certified Cloud Practitioner Certification](https://cp.certmetrics.com/amazon/en/public/verify/credential/d907587eea8344c893032be9a0ce7473) 
