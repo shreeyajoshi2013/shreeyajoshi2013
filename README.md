@@ -18,18 +18,18 @@ migrate data and data platforms, accurately and efficiently, following ETL proce
 ### 🌱 Here are some of my projects: <br>
  
 
--	1	Data_Pipeline_with_Snowflake_and_Apache_Nifi | Data Engineering pipeline
--	2	AWS_Data_Engineering_Spotify_Data |	Data Engineering pipeline
--	3	Data Engineering and Analysis with Youtube dataset | Data Engineering pipeline
--	4	College Selection Platform | Database Design and implementation
--	5	Python-practice-projects | Practice - Data Anlaysis - Python
--	6	Power-BI-practice-projects | Practice - Visualization - PowerBI
--	7	Data exploration with covid dataset	| Data Analysis and Visualization
--	8	Correlation between variables of movies data | Data Analysis - Statistical Analysis and Visualization
--	9	SQL-Data-Cleaning-with-Housing-Data	| Data Cleaning and Pre-processing
--	10	Data Preprocessing with Abalone Dataset	| Data Cleaning and Pre-processing
--	11	Prediction of Electricity consumption	| Machine Learning - Regression
--	12	KNN-CLassification-using-Abalone-Dataset | Machine Learning classification
+1	Data_Pipeline_with_Snowflake_and_Apache_Nifi          | Data Engineering pipeline
+2	AWS_Data_Engineering_Spotify_Data                     |	Data Engineering pipeline
+3	Data Engineering and Analysis with Youtube dataset    | Data Engineering pipeline
+4	College Selection Platform                            | Database Design and implementation
+5	Python-practice-projects                              | Practice - Data Anlaysis - Python
+6	Power-BI-practice-projects                            | Practice - Visualization - PowerBI
+7	Data exploration with covid dataset	                  | Data Analysis and Visualization
+8	Correlation between variables of movies data          | Data Analysis - Statistical Analysis and Visualization
+9	SQL-Data-Cleaning-with-Housing-Data	                  | Data Cleaning and Pre-processing
+10	Data Preprocessing with Abalone Dataset	              | Data Cleaning and Pre-processing
+11	Prediction of Electricity consumption	              | Machine Learning - Regression
+12	KNN-CLassification-using-Abalone-Dataset              | Machine Learning classification
 
 
 ### 🌱 My certifications and courses 
