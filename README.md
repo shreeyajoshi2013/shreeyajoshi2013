@@ -29,7 +29,7 @@ migrate data and data platforms, accurately and efficiently, following ETL proce
 9	[SQL-Data-Cleaning-with-Housing-Data](https://github.com/shreeyajoshi2013/SQL-Data-Cleaning-with-Housing-Data) (Data Cleaning and Pre-processing) <br>
 10	[Data Preprocessing with Abalone Dataset](https://github.com/shreeyajoshi2013/Python-Data-Preprocessing-with-Abalone-Data) (Data Cleaning and Pre-processing) <br>
 11	[Prediction of Electricity consumption](https://github.com/shreeyajoshi2013/Prediction-of-Electricity-Consumption) (Machine Learning - Regression) <br>
-12	[KNN-CLassification-using-Abalone-Dataset](https://github.com/shreeyajoshi2013/KNN-CLassification-using-Abalone-Dataset) (Machine Learning classification) <br>
+12	[KNN-CLassification-using-Abalone-Dataset](https://github.com/shreeyajoshi2013/KNN-CLassification-using-Abalone-Dataset) (Machine Learning - Classification) <br>
 
  
 ### 🌱 My certifications and courses 
